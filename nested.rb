@@ -21,7 +21,7 @@ programmer_hash[:hopper] = {
 }
 
 end
-
+binding.pry
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
@@ -41,8 +41,9 @@ def alan_kay_is_known_for
         }
      }
      programer_hash[:alan_kay_is_known_for] ={[:alan_kay][:known_for]}
-     binding.pry
+     
 end
+
 
 def dennis_ritchies_language
 	programmer_hash =
