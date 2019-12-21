@@ -23,7 +23,7 @@ programmer_hash[:hopper] = {
 end
 
 def alan_kay_is_known_for
-	programer_hash[:alan_kay_is_known_for] => "Object Orientation"# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
+	programer_hash[:alan_kay_is_known_for] = "Object Orientation"# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
 	programmer_hash =
  		{
