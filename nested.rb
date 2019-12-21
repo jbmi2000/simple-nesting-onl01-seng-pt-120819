@@ -91,7 +91,7 @@ programmer_hash[:yukihiro_matsumoto] = {known_for: "Ruby", languages: ["LISP", "
 #programmer_hash[:yukihiro_matsumoto] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
 end
 #programmer_hash
-binding.pry
+# binding.pry
 def changing_alan
 	programmer_hash =
  		{
