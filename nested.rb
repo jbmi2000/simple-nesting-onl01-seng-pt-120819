@@ -41,6 +41,7 @@ def alan_kay_is_known_for
         }
      }
      programer_hash[:alan_kay_is_known_for] ={[:alan_kay][:known_for]}
+     binding.pry
 end
 
 def dennis_ritchies_language
